@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cliente"
+            android:icon="@mipmap/cliente"
+            android:title="@string/action_cliente" />
+        <item
+            android:id="@+id/nav_vencimientos"
+            android:icon="@mipmap/venc"
+            android:title="@string/action_vencimiento" />
+    </group>
+
+    <item android:title="Opciones">
+        <menu>
+            <item
+                android:id="@+id/nav_sincro"
+                android:icon="@mipmap/sincro"
+                android:title="@string/action_sincronizar" />
+            <item
+                android:id="@+id/nav_salir"
+                android:icon="@mipmap/salir"
+                android:title="@string/action_salir" />
+        </menu>
+    </item>
+
+</menu>

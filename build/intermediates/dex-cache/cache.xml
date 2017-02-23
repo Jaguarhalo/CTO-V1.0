@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_77c555c0cfe2c3eafd50785116ecee88e8837f03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_b8756c981e029db011e12164eaa7f1c7e70b4369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_e60a9c4cf08206a88729bc3f6192f64c5b40ef6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_f2f9f1ec8ce50a64bcc4f6a31eab310adcebddfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_5a3654942200a741de22fe7349459c817c2c3c2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_6d95bc6ba63d348fea380eb699cfc88108176a59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\corp_01agmp\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_4eca4f01804b0f834bd52b67ff08816606091aad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_1ff402ec4d4973dc012d456f99404462befca3f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_c715455fa455f2d4d2cc04494af0b89672466308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_0818682e68b74177520e1ae044ca9ef275205b6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\corp_01agmp\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_782b5b568c8160dc83f40ccab7ae4d59db0bfc5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_ab170c727e64b6ec55f91ba39f743d5b82ac892e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_990fb79cfb6900aad18c74500649a02f3567ee8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_788c2a8f1cfbc03927cdc41cbb9c7eb3ce9e3c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_1d8217f76cc881859fc8f5b8229347e55c73fb7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\Desarrollos\Mobile\CTOV1.0\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_1c3defd472dc00575ef224c870e6fceb34804d41.jar" />
+    </item>
+
+</items>
